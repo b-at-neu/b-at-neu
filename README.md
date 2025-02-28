@@ -1,4 +1,8 @@
-## Hi there 👋
+## Benedikt Winkler
+
+### Computer Science Major, Concentration in Software
+
+I love coding, theater, and activism. At Northeastern University, I seek out opportunities for me to explore those themes as well as gain new experiences. I am an active member of many student organizations including Student Government Association and Acting Out and love learning new skills and meeting people through the experiences I have.
 
 <!--
 **b-at-neu/b-at-neu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
