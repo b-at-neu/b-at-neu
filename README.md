@@ -8,9 +8,9 @@ I love coding, theater, and activism. At Northeastern University, I seek out opp
 
 <p align="center">
 <a>
-  <img height=300 src="https://github-readme-stats-chi-five-96.vercel.app/api?username=b-at-neu&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&rank_icon=percentile"/>
+  <img height=200 src="https://github-readme-stats-chi-five-96.vercel.app/api?username=b-at-neu&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&rank_icon=percentile"/>
 </a>
 <a>
-  <img height=300 src="https://github-readme-stats-chi-five-96.vercel.app/api/top-langs/?username=b-at-neu&theme=radical&layout=donut&langs_count=6"/>
+  <img height=200 src="https://github-readme-stats-chi-five-96.vercel.app/api/top-langs/?username=b-at-neu&theme=radical&layout=donut"/>
 </a>
 </p>
